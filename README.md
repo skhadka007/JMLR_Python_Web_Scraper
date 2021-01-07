@@ -5,9 +5,10 @@
 	- (https://www.jmlr.org/).
 - **CURRENT STATUS:** In progress.
 ## Installation
-Python 3. (https://www.python.org/download/releases/3.0/)
-beautifulsoup4 (https://www.crummy.com/software/BeautifulSoup/)
-lxml (https://lxml.de/)
+- Python 3. (https://www.python.org/download/releases/3.0/)
+- beautifulsoup4 (https://www.crummy.com/software/BeautifulSoup/)
+- lxml (https://lxml.de/)
+
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install packages.
 
 ```bash
