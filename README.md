@@ -23,7 +23,7 @@ pip install unidecode
 	- Titles, Abstracts, Abstract URLs, Authors, Keywords, Affiliations, Month of Publication, Volume URL, Journal Name, Year of Publication, Volume List, and Issue List.
 - JMLR_scraper_VolumeX_abstract.py: Use to scrape just the abstracts of specific volumes(x).
 - JMLR_scraper_VolumeX_abstractURL: Use to scrape just the abstracts URLs of specific volumes.
-- Same usage for the rest of rest of the data. 
+- Similar usage for the rest of the individual scrapers. 
 ```python
 python JMLR_scraper_FULL.py
 ```
